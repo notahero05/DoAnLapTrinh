@@ -1,6 +1,6 @@
 🏗️ Warehouse Stealth System v1.0 📦
 
-"Phần mềm làm giàu số 1 tại Việt Nam. Bạn nói sổ sách là bao nhiêu thì nó là bấy nhiêu."
+"Phần mềm quản lí kho vật tư công trình số 1 tại Việt Nam"
 
 <p align="center"> <img src="https://img.shields.io/badge/Main_Algorithm-Personal_Optimization-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Technology-Material_Invisibility-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Audit_Status-Passed_(Maybe)-green?style=for-the-badge"> </p>
 
