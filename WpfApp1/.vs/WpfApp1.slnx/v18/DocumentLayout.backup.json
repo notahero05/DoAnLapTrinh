@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{3DA15A05-7D41-46A5-9CD1-04B331F60025}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{3DA15A05-7D41-46A5-9CD1-04B331F60025}|WpfApp1\\WpfApp1.csproj|c:\\users\\luke\\downloads\\git\\appquanlykho\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{3DA15A05-7D41-46A5-9CD1-04B331F60025}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Luke\\Downloads\\git\\AppQuanLyKho\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{3DA15A05-7D41-46A5-9CD1-04B331F60025}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,6 +34,7 @@
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "WhenOpened": "2026-01-20T01:03:58.902Z",
               "EditorCaption": ""
             },
@@ -47,7 +52,22 @@
 =======
               "WhenOpened": "2026-01-20T01:54:34.941Z",
 >>>>>>> Stashed changes
+=======
+              "WhenOpened": "2026-01-20T01:03:58.902Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Downloads\\git\\AppQuanLyKho\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luke\\Downloads\\git\\AppQuanLyKho\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC8SURBVDhPY0AHeq0n/p\u002B4/fo/lEs6AGmWrzkKNqSrq\u002Bu/goLC/9raWpwGMoIUP/zwC8pFAHkBNoaHLdaMIAP8/f0ZGBkZGSZMmMAIlcYNkF0A4oMMANH5\u002Bfn/CwoKCHsNPQxABrx48YI4Q0B\u002BhjLhABYOyBgqhQnwSkIBuhomKE02GDWA2gbw8PAw3Lp1C2dUguSkpKSgPAhASdtLliz5P23aNIZnz55BRVAByIKKigqGmJgYwnmCOMDAAAAA/l8uuZJFNgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-01-20T01:03:58.29Z"
             }
           ]
         }
